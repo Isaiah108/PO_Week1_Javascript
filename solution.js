@@ -1,5 +1,5 @@
 let theSentence = "how much wood could a wood chuck chuck";
-takeIn(theSentence);
+threeLargestWords(theSentence);
 
 function threeLargestWords(sentence) {
   let arraySentence = sentence.split(" ");
